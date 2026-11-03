@@ -6,3 +6,5 @@ app/build/
 .idea/
 .kotlin/
 *.apk
+keystore.properties
+dukaansaathi-release.jks
