@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DukaanSaathi</string>
+    <string name="tab_dashboard">Dashboard</string>
+    <string name="tab_inventory">Inventory</string>
+    <string name="tab_credit">Credit Book</string>
+    <string name="voice_prompt_item">Speak the item name</string>
+    <string name="voice_prompt_customer">Speak the customer name</string>
+    <string name="voice_prompt_note">Speak a note</string>
+    <string name="mic_unavailable">Voice input not available on this device</string>
+</resources>
